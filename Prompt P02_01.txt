@@ -1,0 +1,28 @@
+1. saya ingin dalam case satu ini anda mengerjakan nya denga logilac dan struktur yang baik, saya ingin anda berperan sebagai dosen saya dimana dalam case ini saya diminta mengerjakan permasalahan diatas lewat apk visual studio code dengan tipe bahasa c , yang dimana nantinya akan saya workflow hasil pengerjaannya tersebut. Buat agar codingan tersebut dapat saya run di terminal powershell dan saya menggunakan windows gcc MinGW64
+2. masih eror saat dijalankan di terminal powershell
+3. Saya sedang mengerjakan sebuah studi kasus pemrograman menggunakan bahasa C di Visual Studio Code pada sistem operasi Windows dengan compiler GCC MinGW64. Program nantinya akan dijalankan melalui terminal PowerShell.
+
+Kasus yang diberikan adalah sebagai berikut:
+
+Terdapat sebuah layanan pengiriman paket bernama Del-Express yang digunakan oleh mahasiswa IT Del untuk mengirim barang ke berbagai kota. Sistem ini menghitung biaya pengiriman paket milik dua mahasiswa, yaitu Ucok dan Butet.
+
+Petugas hanya perlu memasukkan kode kota tujuan serta berat paket milik Butet. Setelah itu, sistem secara otomatis akan menghitung seluruh biaya pengiriman termasuk berat paket milik Ucok berdasarkan aturan yang terdapat pada sistem.
+
+Program harus membaca input secara berulang hingga pengguna memasukkan kata "END".
+
+
+Saya ingin program dibuat dengan struktur kode yang baik dan logika yang jelas, menggunakan:
+
+ penggunaan percabangan (if-else atau switch-case) untuk menentukan tarif kota
+ variabel yang jelas dan mudah dipahami
+ bahasa pemrograman C
+ perulangan sentinel menggunakan kata "END"
+ format output yang rapi seperti struk pembayaran
+
+Program harus dapat di-compile menggunakan GCC MinGW64 dan dijalankan melalui terminal PowerShell di Windows tanpa error.
+
+Tolong berikan:
+
+1. Penjelasan logika program
+2. Algoritma penyelesaian
+3. Implementasi kode program C yang lengkap dan dapat langsung dijalankan.
